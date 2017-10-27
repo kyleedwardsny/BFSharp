@@ -303,3 +303,7 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+
+# Filenames beginning with a period
+.*
+!.gitignore
