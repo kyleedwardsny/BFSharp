@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSharp", "BFSharp\BFSharp.csproj", "{AF83B51D-67E0-4134-82A2-3AB4552FF19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF83B51D-67E0-4134-82A2-3AB4552FF19C}.Debug|x86.ActiveCfg = Debug|x86
+		{AF83B51D-67E0-4134-82A2-3AB4552FF19C}.Debug|x86.Build.0 = Debug|x86
+		{AF83B51D-67E0-4134-82A2-3AB4552FF19C}.Release|x86.ActiveCfg = Release|x86
+		{AF83B51D-67E0-4134-82A2-3AB4552FF19C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BFSharp\BFSharp.csproj
+	EndGlobalSection
+EndGlobal
